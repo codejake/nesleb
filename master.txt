@@ -1,3 +1,4 @@
+ip,asn,asn owner,city,state,country
 1.0.169.49,23969,TOT Public Company Limited,Krabi,Krabi,TH
 1.0.203.26,23969,TOT Public Company Limited,Trang,Trang,TH
 1.0.247.117,23969,TOT Public Company Limited,Krabi,Krabi,TH
