@@ -1,42 +1,42 @@
-137.135.84.63: Washington, Virginia, US
-139.60.29.186: Medford, Oregon, US
-15.200.172.145: Boardman, Oregon, US
-172.86.143.177: Wenatchee, Washington, US
-173.241.165.21: Sandy, Oregon, US
-199.66.196.134: Eugene, Oregon, US
-20.119.38.98: Washington, Virginia, US
-20.120.29.225: Washington, Virginia, US
-20.124.228.150: Washington, Virginia, US
-20.124.240.130: Washington, Virginia, US
-20.232.82.246: Washington, Virginia, US
-207.109.34.154: Portland, Oregon, US
-216.115.4.34: Medford, Oregon, US
-216.115.9.100: Klamath Falls, Oregon, US
-24.104.129.182: Washington, District of Columbia, US
-24.20.12.56: Portland, Oregon, US
-38.142.23.250: Washington, District of Columbia, US
-40.114.69.118: Washington, Virginia, US
-40.71.66.156: Washington, Virginia, US
-40.76.25.38: Washington, Virginia, US
-50.197.2.237: Washington, District of Columbia, US
-50.201.126.170: Renton, Washington, US
-50.204.61.190: Bellevue, Washington, US
-50.209.61.105: Portland, Oregon, US
-50.212.218.193: Seattle, Washington, US
-50.76.96.85: Portland, Oregon, US
-50.78.189.49: Portland, Oregon, US
-51.141.184.210: None, Washington, US
-51.143.33.88: None, Washington, US
-52.170.188.5: Washington, Virginia, US
-52.186.138.249: Washington, Virginia, US
-52.186.139.13: Washington, Virginia, US
-52.224.216.244: Washington, Virginia, US
-63.155.70.43: Springfield, Oregon, US
-63.208.136.78: None, Washington, US
-65.102.37.82: Portland, Oregon, US
-65.144.41.130: Seattle, Washington, US
-67.134.193.66: Seattle, Washington, US
-67.136.178.98: Portland, Oregon, US
-70.99.4.52: Portland, Oregon, US
-75.150.0.193: Spokane, Washington, US
-76.115.151.240: Eugene, Oregon, US
+137.135.84.63,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+139.60.29.186,36012,HUNTER-COMM,Medford,Oregon,US
+15.200.172.145,8987,Amazon Data Services Ireland Ltd,Boardman,Oregon,US
+172.86.143.177,25764,IFIBER-COMMUNICATIONS,Wenatchee,Washington,US
+173.241.165.21,32365,SANDYNET,Sandy,Oregon,US
+199.66.196.134,13857,ONLINEMAC,Eugene,Oregon,US
+20.119.38.98,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+20.120.29.225,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+20.124.228.150,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+20.124.240.130,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+20.232.82.246,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+207.109.34.154,209,CENTURYLINK-US-LEGACY-QWEST,Portland,Oregon,US
+216.115.4.34,36012,HUNTER-COMM,Medford,Oregon,US
+216.115.9.100,36012,HUNTER-COMM,Klamath Falls,Oregon,US
+24.104.129.182,7922,COMCAST-7922,Washington,District of Columbia,US
+24.20.12.56,7922,COMCAST-7922,Portland,Oregon,US
+38.142.23.250,174,COGENT-174,Washington,District of Columbia,US
+40.114.69.118,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+40.71.66.156,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+40.76.25.38,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+50.197.2.237,7922,COMCAST-7922,Washington,District of Columbia,US
+50.201.126.170,7922,COMCAST-7922,Renton,Washington,US
+50.204.61.190,7922,COMCAST-7922,Bellevue,Washington,US
+50.209.61.105,7922,COMCAST-7922,Portland,Oregon,US
+50.212.218.193,7922,COMCAST-7922,Seattle,Washington,US
+50.76.96.85,7922,COMCAST-7922,Portland,Oregon,US
+50.78.189.49,7922,COMCAST-7922,Portland,Oregon,US
+51.141.184.210,8075,MICROSOFT-CORP-MSN-AS-BLOCK,None,Washington,US
+51.143.33.88,8075,MICROSOFT-CORP-MSN-AS-BLOCK,None,Washington,US
+52.170.188.5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+52.186.138.249,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+52.186.139.13,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+52.224.216.244,8075,MICROSOFT-CORP-MSN-AS-BLOCK,Washington,Virginia,US
+63.155.70.43,209,CENTURYLINK-US-LEGACY-QWEST,Springfield,Oregon,US
+63.208.136.78,3356,LEVEL3,None,Washington,US
+65.102.37.82,209,CENTURYLINK-US-LEGACY-QWEST,Portland,Oregon,US
+65.144.41.130,209,CENTURYLINK-US-LEGACY-QWEST,Seattle,Washington,US
+67.134.193.66,209,CENTURYLINK-US-LEGACY-QWEST,Seattle,Washington,US
+67.136.178.98,7385,ABUL-14-7385,Portland,Oregon,US
+70.99.4.52,7385,ABUL-14-7385,Portland,Oregon,US
+75.150.0.193,7922,COMCAST-7922,Spokane,Washington,US
+76.115.151.240,7922,COMCAST-7922,Eugene,Oregon,US
