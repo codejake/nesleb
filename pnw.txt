@@ -8,8 +8,8 @@ ip,asn,asn owner,city,state,country,notes
 216.115.4.34,36012,HUNTER-COMM,Medford,Oregon,US,
 216.115.9.100,36012,HUNTER-COMM,Klamath Falls,Oregon,US,
 24.20.12.56,7922,COMCAST-7922,Portland,Oregon,US,"FG 61F Serial: FGT61FTK20022988"
-50.201.126.170,7922,COMCAST-7922,Renton,Washington,US,
-50.204.61.190,7922,COMCAST-7922,Bellevue,Washington,US,
+50.201.126.170,7922,COMCAST-7922,Renton,Washington,US,"mea-den-rtr-01.meagherdenveroffice.com"
+50.204.61.190,7922,COMCAST-7922,Bellevue,Washington,US,"FG 100F Serial: FG100FTK22014779"
 50.209.61.105,7922,COMCAST-7922,Portland,Oregon,US,
 50.212.218.193,7922,COMCAST-7922,Seattle,Washington,US,
 50.76.96.85,7922,COMCAST-7922,Portland,Oregon,US,
