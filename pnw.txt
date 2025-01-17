@@ -23,5 +23,5 @@ ip,asn,asn owner,city,state,country,notes
 67.134.193.66,209,CENTURYLINK-US-LEGACY-QWEST,Seattle,Washington,US,
 67.136.178.98,7385,ABUL-14-7385,Portland,Oregon,US,
 70.99.4.52,7385,ABUL-14-7385,Portland,Oregon,US,"vpn.altensakai.cpa"
-75.150.0.193,7922,COMCAST-7922,Spokane,Washington,US,
+75.150.0.193,7922,COMCAST-7922,Spokane,Washington,US,"optimized.ivhwa.com"
 76.115.151.240,7922,COMCAST-7922,Eugene,Oregon,US,
