@@ -1,7 +1,7 @@
 ip,asn,asn owner,city,state,country,notes
 139.60.29.186,36012,HUNTER-COMM,Medford,Oregon,US,
-15.200.172.145,8987,Amazon Data Services Ireland Ltd,Boardman,Oregon,US,
-172.86.143.177,25764,IFIBER-COMMUNICATIONS,Wenatchee,Washington,US,
+15.200.172.145,8987,Amazon Data Services Ireland Ltd,Boardman,Oregon,US,"mciawsvpn.metalcraftind.com"
+172.86.143.177,25764,IFIBER-COMMUNICATIONS,Wenatchee,Washington,US,"keyholesecurityinc.west.3cx.us related to ecs.keyholesecurityhost.com"
 173.241.165.21,32365,SANDYNET,Sandy,Oregon,US,"FG 60F vpn.sandyfire.org"
 199.66.196.134,13857,ONLINEMAC,Eugene,Oregon,US,
 207.109.34.154,209,CENTURYLINK-US-LEGACY-QWEST,Portland,Oregon,US,
